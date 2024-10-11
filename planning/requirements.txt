@@ -1,0 +1,26 @@
+index.html - 
+1. Username/password field that allows a user to sign in with username/password. I want this to be in a floating form.
+2. Background of anime fight or some kind of anime static image that will be responsive.
+
+dashboard.html - 
+    data: 
+        banking:
+            Main bank account balance
+            account balances of smaller accounts
+        debts:
+            credit card balances
+            loan balances
+            loan minimum payments.
+        retirement/tax advantage accounts:
+            retirement account balance
+            fsa balance
+
+transactions.html - 
+    data:
+        transactional:
+            I want to be able to see the last 3 months of transactional data. 
+            I want to be able to filter on the data. 
+            *I want to be able to tag the specific transactions and have it send a request to the back end to create a role for tagging future transactions
+            *A graph to show transaction amounts by category-tag
+            *A graph to show transaction amounts by source/store-tag
+            

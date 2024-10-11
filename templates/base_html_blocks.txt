@@ -1,0 +1,6 @@
+{% block head %}{% endblock %} - for anything that needs to go in the head of the html form
+{% block stylesheets %}{% endblock %} - where you link any page specific stylesheets
+{% block title %}{% endblock %} - for adding a title to the page.
+{% block content %}{% endblock %} - where the bulk of the content goes. 
+{% block footer %}{% endblock %} - if you have any footer html to put
+{% block js %}{% endblock %} - where you put your links to js files. 
